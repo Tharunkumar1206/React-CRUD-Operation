@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Samsung Galaxy S10",
+      "brand": "Samsung",
+      "description": "smart phone",
+      "price": "600"
+    },
+    {
+      "id": "2",
+      "name": "Nokia e15",
+      "brand": "Nokia",
+      "price": 400,
+      "description": "button phone"
+    },
+    {
+      "id": "3",
+      "name": "iphone 13pro",
+      "brand": "Apple",
+      "price": 2000,
+      "description": "AI phone"
+    }
+  ]
+}
